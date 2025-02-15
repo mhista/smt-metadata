@@ -2,14 +2,14 @@
   "name": "Somtec",
   "symbol": "SMT",
   "description": "A test token on Solana testnet",
-  "image": "//wsl.localhost/Ubuntu/home/somtech/tokenn/st.webp",
+  "image": "https://raw.githubusercontent.com/mhista/smt-metadata/119c7898bc89b5af9d43c18e0bc8707c7daa6339/st.webp",
   "attributes": [
     { "trait_type": "Category", "value": "Testnet Token" }
   ],
   "properties": {
     "files": [
       {
-        "uri": "//wsl.localhost/Ubuntu/home/somtech/tokenn/st.webp"
+        "uri": "https://raw.githubusercontent.com/mhista/smt-metadata/119c7898bc89b5af9d43c18e0bc8707c7daa6339/st.webp"
         "type": "image/webp"
       }
     ]
