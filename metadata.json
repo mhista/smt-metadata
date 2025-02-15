@@ -1,0 +1,17 @@
+{
+  "name": "Somtec",
+  "symbol": "SMT",
+  "description": "A test token on Solana testnet",
+  "image": "//wsl.localhost/Ubuntu/home/somtech/tokenn/st.webp",
+  "attributes": [
+    { "trait_type": "Category", "value": "Testnet Token" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "//wsl.localhost/Ubuntu/home/somtech/tokenn/st.webp"
+        "type": "image/webp"
+      }
+    ]
+}
+
