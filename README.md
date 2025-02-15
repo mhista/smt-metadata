@@ -1,0 +1,1 @@
+"SMT token readme file.
